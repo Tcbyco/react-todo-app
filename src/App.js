@@ -2,8 +2,8 @@ import React, { useState, useEffect, useRef } from 'react'
 import './App.css'
 
 import { Canvas, useFrame } from 'react-three-fiber'
-
 import { JsonComponent } from './components/JsonComponent'
+
 /* 
     Tasks:
     1. clear the input box after adding a todo
